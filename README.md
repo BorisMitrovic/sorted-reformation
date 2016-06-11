@@ -18,4 +18,4 @@ General structure of the code:
 
 Other files are ontology files used in the thesis. 
 
-This was developed as part of the 4th year BSc project, supervised by Alan Bundy. Thesis available on request.
+This was developed as part of the 4th year BSc project (2013), supervised by Alan Bundy. Thesis available on request.
