@@ -1,5 +1,5 @@
 # sorted-reformation
-Automatic ontology repair for sorted logic using Reformation algorithm, originally written for FOL logic by Alan Bundy
+Automatic ontology repair for multi sorted logic using Reformation algorithm, originally written for FOL logic by Alan Bundy
 
 Requires `SWI-Prolog` (http://www.swi-prolog.org/). See also a reformation algorithm for First order logic: https://github.com/BorisMitrovic/reformation/
 
